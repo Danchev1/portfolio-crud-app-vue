@@ -52,5 +52,5 @@ whole framework
 
 * Was not sure to mock data the whole crude approach (add/delete portfolio on
  response and so on) but if you like i a can implement it with a axios-mock-adapter.
-* Home view has some additional documentation in a custom tag :)
+* Estimate around 6h
 
